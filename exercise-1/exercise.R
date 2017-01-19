@@ -30,3 +30,4 @@ opp.names <- c("Dolphins", "Rams", "49rs", "Jets", "Falcos", "Cardinals", "Saint
 rownames(total) <- make.names(opp.names, unique = TRUE)
 
 # View your data frame to see how it has changed!
+View(total)
